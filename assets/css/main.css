@@ -739,7 +739,7 @@ fieldset[disabled] .btn {
   color: #f9f3f3;
 }
 /* ==========================================================================
-   About 
+   About
    ========================================================================== */
 #about .service-block {
   text-align: center;
@@ -942,14 +942,14 @@ fieldset[disabled] .btn {
   margin-top: 20px;
   padding: 30px;
   text-align: center;
-  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
-  -webkit-transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
-  -moz-transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
-  -o-transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
-  transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+  -webkit-filter:grayscale(100%);
 }
 #sponsors .spnsors-logo:hover {
-  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.14);
+  -webkit-filter:none;
+}
+#sponsors .spnsors-logo img{
+  width: 157px;
+  height: auto;
 }
 /* ==========================================================================
    Gallery Section Style
@@ -1425,7 +1425,7 @@ h1 {
   width: 100%;
 }
 /* ==========================================================================
-   Contact Forem 
+   Contact Forem
    ========================================================================== */
 .main-content {
   background: url(../img/background/contact-bg.jpg) center;
@@ -1649,7 +1649,7 @@ footer ul li a {
   font-weight: 400;
 }
 /* ==========================================================================
-   Copyright Section 
+   Copyright Section
    ========================================================================== */
 #copyright {
   background: #333;
@@ -1660,7 +1660,7 @@ footer ul li a {
   margin: 0;
 }
 /* ==========================================================================
-   Subscribe Section 
+   Subscribe Section
    ========================================================================== */
 #subscribe-section {
   background: url(../img/background/header-bg.jpg);
