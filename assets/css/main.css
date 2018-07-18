@@ -1362,6 +1362,7 @@ h1 {
    ========================================================================== */
 .pricing-table {
   text-align: center;
+  background: #211f1f;
   box-shadow: 0px 1px 9px rgba(0, 0, 0, 0.08);
   margin: 60px 15px;
   padding: 30px 0px 0px;
@@ -1493,15 +1494,15 @@ h1 {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
-#contact .social a .fa-google-plus:hover {
-  color: #E91E63;
+#contact .social a .fa-facebook:hover {
+  color: #3B5998;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
-#contact .social a .fa-linkedin:hover {
-  color: #007bb6;
+#contact .social a .fa-instagram:hover {
+  color: #cd486b;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
