@@ -30,7 +30,7 @@ a:hover{
   background: #4CAF50;
 }
 .slicknav_nav .active a{
-  background: #4CAF50;
+  background:#2fc135;
 }
 .slicknav_nav a:hover, .slicknav_nav .active{
   color: #4CAF50;

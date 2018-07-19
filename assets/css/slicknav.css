@@ -89,7 +89,7 @@
   box-sizing: border-box;
 }
 .slicknav_menu ul{
-  background: #fff;
+  background: #0c0c0c;
 }
   .slicknav_menu * {
     box-sizing: border-box; }
@@ -130,7 +130,7 @@
     padding: 5px 10px;
     margin: 2px 5px;
     text-decoration: none;
-    color: #2d2d2d; }
+    color: #ffffff; }
   .slicknav_nav .slicknav_txtnode {
     margin-left: 15px; }
   .slicknav_nav .slicknav_item a {
