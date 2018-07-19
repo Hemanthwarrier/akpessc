@@ -1422,15 +1422,17 @@ h1 {
    Map Section
    ========================================================================== */
 #map_canvas {
-  height: 800px;
+  height: 700px;
   width: 100%;
+  -webkit-filter:grayscale(100%);
 }
 /* ==========================================================================
    Contact Forem
    ========================================================================== */
 .main-content {
-  background: url(../img/background/contact-bg.jpg) center;
+  background: url(../img/cec.jpg) center;
   background-size: cover;
+  -webkit-filter: grayscale(100%);
 }
 #contact .contact-form {
   background: #fff;
@@ -1439,7 +1441,7 @@ h1 {
   max-height: 627px;
 }
 #contact .information {
-  background: #777777;
+  background: #1C1919;
   padding: 65px 30px;
   margin-top: -254px;
   max-height: 627px;
