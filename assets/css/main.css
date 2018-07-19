@@ -27,6 +27,16 @@ h6 {
   color: #f9f3f3;
   font-weight: 700;
 }
+h7 {
+  font-family: 'Open Sans', sans-serif;
+  color: #3e3939;
+  font-weight: 900;
+}
+h8 {
+  font-family: 'Open Sans', sans-serif;
+  color: #3e3939;
+  font-weight: 700;
+}
 p {
   color: #777777;
   font-size: 14px;
