@@ -14,8 +14,9 @@
     top: 6%;
   }
   #carousel-area .carousel-inner .item .carousel-caption h2 {
-    font-size: 26px;
-    line-height: 38px;
+    font-size: 42px;
+    line-height: 42px;
+    margin-top: 20%;
   }
   .rev-scroll-btn {
     margin-top: 45px;
@@ -67,9 +68,9 @@
     top: 10%;
   }
   #carousel-area .carousel-inner .item .carousel-caption h2 {
-    font-size: 20px;
-    line-height: 36px;
-    margin: 20px;
+    font-size: 31px;
+    line-height: 35px;
+    margin: 14%;
   }
   #carousel-area .carousel-control {
     font-size: 22px;
@@ -155,6 +156,9 @@
     font-size: 22px;
     top: 60%;
   }
+  #carousel-area video{
+        transform: translate(-36%,-50%);
+  }
   .btn-lg {
     font-size: 11px;
     padding: 6px 16px;
@@ -168,6 +172,9 @@
   }
   .navbar-default .navbar-toggle {
     border-color: transparent;
+  }
+  .navbar-default{
+    background: #000000ba;
   }
   .countdown-timer .text {
     padding: 0px;

@@ -281,7 +281,7 @@ fieldset[disabled] .btn {
 }
 .navbar-default {
   margin-bottom: 0;
-  background: transparent;
+  background: #000000ba;
   border: none;
   border-radius: 0;
 }
