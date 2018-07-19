@@ -308,7 +308,7 @@ fieldset[disabled] .btn {
   display: block;
   padding: 30px 0px;
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin-right: 24px;
   font-weight: 400;
   outline: 0;
@@ -342,10 +342,13 @@ fieldset[disabled] .btn {
   width: 100%;
 }
 .navbar-event {
-  background: #d6b262;
+ position: absolute;
+ top: 0px;
+ z-index: 9999;
+ width: 100%;
 }
 .navbar-event .navbar-nav li a {
-  color: #222222;
+  color: #fff;
   padding: 0 20px;
   margin-right: 1px;
   margin-top: 20px;
