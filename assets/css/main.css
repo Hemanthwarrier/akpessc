@@ -50,6 +50,10 @@ a {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
+.a1 {
+    background-color:white !important;
+    padding:inherit;
+}
 a:hover {
   color: #e91e63;
   text-decoration: none;
