@@ -2319,3 +2319,13 @@ blockquote .quote-text {
   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.14);
   outline: none;
 }
+
+.seperator-line{
+  display:  block;
+  width: 80%;
+  height: 4px;
+  background: #d2cdcd;
+  text-align:  center;
+  margin: 15px auto;
+  border-radius: 43px;
+}
