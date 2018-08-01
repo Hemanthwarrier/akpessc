@@ -1466,7 +1466,7 @@ h1 {
   margin-left: 24px;
 }
 #contact .information .contact-datails {
-  margin: 15px 0px 48px;
+  margin: 15px 10px 15px;
 }
 #contact .information .contact-datails .icon {
   float: left;
@@ -1495,7 +1495,7 @@ h1 {
   margin-left: 5px;
 }
 #contact .social {
-  margin: 110px 0 22px;
+  margin: 45px 0px 40px;
   font-size: 30px;
   color: #fff;
   margin-right: 30px;
