@@ -665,11 +665,11 @@ fieldset[disabled] .btn {
 }
 .time-entry {
   display: inline-block;
-  min-width: 110px;
+  min-width: 90px;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   text-align: center;
   padding: 15px 15px 20px 15px;
-  margin-right: 20px;
+  margin: 20px;
   color: #777;
   font-size: 14px;
   line-height: 15px;

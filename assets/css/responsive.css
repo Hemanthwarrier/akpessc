@@ -318,4 +318,7 @@
   .main-content{
     background: white;
   }
+  .time-entry{
+    margin: 4px;
+  }
 }
