@@ -312,4 +312,10 @@
   #comments .comment-content {
     padding: 0;
   }
+  #contact .contact-form{
+    margin: -254px 0px 300px;
+  }
+  .main-content{
+    background: white;
+  }
 }
