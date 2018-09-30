@@ -321,4 +321,7 @@
   .time-entry{
     margin: 4px;
   }
+  #googleMapsEmbed{
+    height: 700px;
+  }
 }
