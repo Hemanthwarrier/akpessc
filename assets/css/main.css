@@ -1482,9 +1482,9 @@ h1 {
   margin-left: 60px;
 }
 #contact .information .contact-datails .info span.detail {
-  font-size: 16px;
+  font-size: 14px;
   display: block;
-  font-weight: 500;
+  font-weight: normal;
   color: #fff;
 }
 #contact button {
@@ -1495,10 +1495,11 @@ h1 {
   margin-left: 5px;
 }
 #contact .social {
-  margin: 45px 0px 40px;
+  margin: 30px 20px 40px;
+  margin-left: initial;
   font-size: 30px;
   color: #fff;
-  margin-right: 30px;
+  margin-right: 40px;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;

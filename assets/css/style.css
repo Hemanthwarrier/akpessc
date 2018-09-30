@@ -1969,6 +1969,7 @@ input.form-control:focus,textarea.form-control:focus {
 }
 
 
+
 /* Place Holder CSS */
 .comments-block input.form-control::-webkit-input-placeholder,.comments-block  textarea.form-control::-webkit-input-placeholder {
   color: #cf9dff;
