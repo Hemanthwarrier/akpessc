@@ -1167,7 +1167,7 @@ h1 {
   transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
 }
 .speakers-member .member-img {
-  background: #cccccc;
+  /*background: #cccccc;*/
   position: relative;
   /*padding: 15px 30px 0;*/
   width: 100%;
@@ -1176,6 +1176,7 @@ h1 {
 }
 .speakers-member .member-img img {
   -webkit-transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+  border-radius: 50%;
   -moz-transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
   -o-transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
   transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
