@@ -1494,7 +1494,7 @@ h1 {
   margin-left: 5px;
 }
 #contact .social {
-  margin: 30px 20px 40px;
+  margin: 40px 20px 40px;
   margin-left: initial;
   font-size: 30px;
   color: #fff;
@@ -2321,6 +2321,9 @@ blockquote .quote-text {
   height: 260px;
   width: 260px;
   border-radius: 270px;
+}
+.contact-datails-container{
+  margin-top: -35px;
 }
 /* .seperator-line{
   display:  block;
