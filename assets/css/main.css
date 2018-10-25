@@ -1152,9 +1152,7 @@ h1 {
 #speakers .speakers-member:hover {
   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.14);
 }
-#speakers .speakers-member:hover .member-img img {
-  margin-top: -58px;
-}
+
 .speakers-member {
   text-align: center;
   margin-bottom: 30px;
@@ -2319,7 +2317,11 @@ blockquote .quote-text {
   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.14);
   outline: none;
 }
-
+.member-img img{
+  height: 260px;
+  width: 260px;
+  border-radius: 270px;
+}
 /* .seperator-line{
   display:  block;
   width: 80%;
